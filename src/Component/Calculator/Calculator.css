@@ -1,0 +1,57 @@
+#input_data{
+    padding: 55px 80px;
+}
+.cal_box{
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: rgb(253, 244, 244);
+}
+.enter_value{
+    background-color: rgb(238, 40, 40);
+    border-radius: 20px;
+    
+}
+.enter_value input{
+       
+    border: none;
+    /* border-radius: 20px; */
+    background: none;
+    color: white;
+    font-size: 40px;
+}
+.cal_box{
+    border: 1px solid gray;
+    width: 35%;
+    height: 550px;
+    padding: 10px 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    ;
+
+}
+.topbtn{
+    padding: 10px 70px;
+    background: none;
+    background-color: azure ;
+    font-size: 20px;
+    border: none;
+    background-color: rgb(235, 227, 227) ;
+    border-radius: 50px;
+}
+.topbtn:hover{
+    background-color: red
+}
+.numbers{
+    padding: 10px 30px;
+    background: none;
+    background-color: rgb(235, 227, 227) ;
+    
+    font-size: 20px;
+    border-radius: 50px;  
+    border: none;  
+}
+.numbers:hover{
+    background-color: red;
+}
+#btns{
+    padding: 10px 10px ;
+    margin-top: 15px;
+}
